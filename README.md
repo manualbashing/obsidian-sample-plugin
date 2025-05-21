@@ -92,3 +92,7 @@ If you have multiple URLs, you can also do:
 ## API Documentation
 
 See https://github.com/obsidianmd/obsidian-api
+
+## Resources
+
+https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/for+Plugin+Developers
